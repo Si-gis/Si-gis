@@ -1,7 +1,9 @@
   👋 Yoo, I’m Simone 
   
--🧑‍🎓  I'm a scientific high-school student /s 
+-🧑‍🎓  I'm a scientific high-school student
+
 -👀  In addition to code, i'm passionate about hardware and enthusiast keyboards
+
 -🌱  I’m currently learning Python and more
 
 

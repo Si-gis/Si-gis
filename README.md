@@ -1,13 +1,13 @@
   👋 Yoo, I’m Simone 
   
- -🧑‍🎓  I'm a scientific high-school student 
- -👀  In addition to code, i'm passionate about hardware and enthusiast keyboards
- -🌱  I’m currently learning Python and more
+-🧑‍🎓  I'm a scientific high-school student 
+-👀  In addition to code, i'm passionate about hardware and enthusiast keyboards
+-🌱  I’m currently learning Python and more
 
 
 -📇  My contact
 
-[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram](https://www.t.me/si_gis)
+[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
 
 <br />
 

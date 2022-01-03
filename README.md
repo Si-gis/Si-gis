@@ -7,7 +7,7 @@
 
 -📇  My contact
 
-[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />]
 
 <!---
 SimoneGenovese1/SimoneGenovese1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

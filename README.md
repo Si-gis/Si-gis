@@ -9,7 +9,7 @@
 
 -📇  My contact
 
-<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />[Telegram](https://www.t.me/si_gis)
+<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.m.wikipedia.org%2Fwiki%2FFile%3ATelegram_logo.svg&psig=AOvVaw3-jstoQy2Tk1AzfHSkg7zA&ust=1641340135061000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDilqbhlvUCFQAAAAAdAAAAABAD" />[Telegram](https://www.t.me/si_gis)
 
 <br />
 

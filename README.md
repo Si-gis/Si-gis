@@ -9,7 +9,7 @@
 
 -📇  Connect with me:
 
-<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>[Telegram](https://www.t.me/si_gis)
+<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png"/>[Telegram](https://www.t.me/si_gis)
 
 <br />
 

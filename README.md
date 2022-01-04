@@ -2,9 +2,9 @@
   
 -🧑‍🎓  I'm a scientific high-school student
 
--👀  In addition to code, i'm passionate about hardware and enthusiast keyboards
-
 -🌱  I’m currently learning Python and more
+
+-👀  In addition to code, i'm passionate about hardware and enthusiast keyboards
 
 
 ### Connect with me:

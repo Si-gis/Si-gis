@@ -15,7 +15,7 @@
 
 ### My Tools for coding!
 
-<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://resources.jetbrains.com/storage/products/toolbox/img/meta/toolbox_logo_300x300.png"/>
+<img align="left" alt="codeSTACKr | Toolbox" width="22px" src="https://resources.jetbrains.com/storage/products/toolbox/img/meta/toolbox_logo_300x300.png"/>
 
 
 <!---

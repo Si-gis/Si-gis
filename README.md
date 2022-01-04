@@ -12,7 +12,7 @@
 <img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png"/>[Telegram](https://www.t.me/si_gis)
 
 
-### My tools for coding:
+### <img align="left" alt="codeSTACKr | Toolbox" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>My tools for coding:
 
 <img align="left" alt="codeSTACKr | Toolbox" width="22px" src="https://resources.jetbrains.com/storage/products/toolbox/img/meta/toolbox_logo_300x300.png"/>
 

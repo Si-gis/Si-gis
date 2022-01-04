@@ -7,7 +7,7 @@
 -🌱  I’m currently learning Python and more
 
 
--📇  Connect with me:
+-📇  CONNECT WITH ME:
 
 <img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png"/>[Telegram](https://www.t.me/si_gis)
 

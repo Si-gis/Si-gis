@@ -4,6 +4,8 @@
 
 -🌱  I’m currently learning Python and more
 
+-<img align="left" alt="codeSTACKr | Linux" width="22px" src="https://banner2.cleanpng.com/20180322/vke/kisspng-tux-racer-penguin-linux-kernel-penguins-5ab409e271d532.7310170015217484504663.jpg"/>[Telegram](https://www.t.me/si_gis)
+
 -👀  In addition to code, i'm passionate about hardware and enthusiast keyboards
 
 

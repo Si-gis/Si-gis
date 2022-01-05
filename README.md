@@ -4,7 +4,7 @@
 
 •🌱  I’m currently learning Python and more
 
-•📭 I really love Open Source software
+•📬 I really love Open Source software
 
 •👀  In addition to code, i'm passionate about hardware and enthusiast keyboards
 

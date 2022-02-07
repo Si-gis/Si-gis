@@ -20,7 +20,7 @@
 
 
 ### My daily friends! 
-<img align="left" alt="codeSTACKr | Arch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png"/> <img align="left" alt="codeSTACKr | Fedora" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png"/> <img align="left" alt="codeSTACKr | Windows" width="22px" src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png"/> <img align="left" alt="codeSTACKr | FireFox" width="22px" src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg"/> <img align="left" alt="codeSTACKr | Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"/>
+<img align="left" alt="codeSTACKr | Arch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png"/> <img align="left" alt="codeSTACKr | Windows" width="22px" src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png"/> <img align="left" alt="codeSTACKr | FireFox" width="22px" src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg"/> <img align="left" alt="codeSTACKr | Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"/>
 
 <!---
 SimoneGenovese1/SimoneGenovese1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

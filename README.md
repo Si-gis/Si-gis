@@ -16,7 +16,7 @@
 
 ### My tools for coding!
 <img align="left" alt="codeSTACKr | Toolbox" width="22px" src="https://resources.jetbrains.com/storage/products/toolbox/img/meta/toolbox_logo_300x300.png"/>
- but actually...src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png"
+ but actually... src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png"
 
 
 ### My daily friends! 

@@ -2,7 +2,7 @@
   
 •🧑‍🎓  I'm a scientific high-school student
 
-•🌱  I’m currently learning Python and more
+•🌱  I’m currently learning c++ and linux(i use arch btw)
 
 •📬 I really love Open Source software
 

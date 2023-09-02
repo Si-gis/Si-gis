@@ -4,7 +4,7 @@
 
 •📬 I really love Open Source software
 
-•👀  In addition to code, i'm passionate about hardware, enthusiast keyboards and videogames
+•👀  i'm passionate about coding, hardware, enthusiast keyboards and videogames
 
 
 ### Connect with me!

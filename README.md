@@ -2,11 +2,9 @@
   
 •🧑‍🎓  I'm a scientific high-school student
 
-•🌱  I’m currently learning c++ and linux (i use arch btw)
-
 •📬 I really love Open Source software
 
-•👀  In addition to code, i'm passionate about hardware and enthusiast keyboards
+•👀  In addition to code, i'm passionate about hardware, enthusiast keyboards and videogames
 
 
 ### Connect with me!

@@ -1,4 +1,4 @@
- ### 👋 Yoo, I’m Simone 
+ ### 👋 Hello, I’m Simone 
   
 •🧑‍🎓  I'm a scientific high-school student
 

@@ -1,6 +1,6 @@
  ### 👋 Hello, I’m Simone 
   
-•🧑‍🎓  I'm a scientific high-school student
+•🧑‍🎓  I'm a student
 
 ### Connect with me!
 

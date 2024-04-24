@@ -1,4 +1,4 @@
- ### 👋 Hello, I’m Simone 
+ ## 👋 Hello, I’m Simone 
   
 •🧑‍🎓  I'm a student
 

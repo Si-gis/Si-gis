@@ -1,4 +1,4 @@
-# Yo, I'm Simone! 👋
+# Yo, I'm Simone
 
 
 

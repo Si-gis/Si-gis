@@ -1,4 +1,23 @@
- ## 👋 Hello, I’m Simone 
+ # Yo, I'm Simone! 👋
+
+
+
+## 🍁 About Me
+•🇮🇹 Italian
+
+•🎓  Student
+
+•💻 Currently learning Go
+
+
+
+
+
+
+
+
+
+## 👋 Hello, I’m Simone 
   
 •🧑‍🎓  I'm a student
 

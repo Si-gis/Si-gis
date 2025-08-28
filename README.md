@@ -7,8 +7,6 @@
 
 •🎓 I'm a Student
 
-•💻 I'm currently learning Go
-
 
 ## 🔗 Connect with me
 

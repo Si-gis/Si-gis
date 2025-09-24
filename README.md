@@ -2,9 +2,7 @@
 
 ## 🍁 About Me
 •🇮🇹 I'm Italian
-
-•🎓 I'm a Student
-
+•🎓 Studying CS at Sapienza University of Rome
 
 ## 🔗 Connect with me
 

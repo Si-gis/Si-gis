@@ -1,4 +1,4 @@
-# Yo, I'm Simone
+<img width="1646" height="1646" alt="image" src="https://github.com/user-attachments/assets/fbb27957-c080-40f3-b4b8-19694acfecff" /># Yo, I'm Simone
 
 
 
@@ -15,4 +15,4 @@
 
 
 ## 🧰 Daily tools
-<img align="left" alt="codeSTACKr | Arch" width="22px" src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png"/>   <img align="left" alt="codeSTACKr | Neovim" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/> <img align="left" alt="codeSTACKr | Intellij" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>
+<img align="left" alt="codeSTACKr | Arch" width="22px" src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png"/>   <img align="left" alt="codeSTACKr | Zed" width="22px" src="<img width="1646" height="1646" alt="image" src="https://github.com/user-attachments/assets/a202ff64-8c9b-4cc9-8e8a-6cc62bd65c40" />

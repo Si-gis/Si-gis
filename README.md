@@ -15,4 +15,4 @@
 
 
 ## 🧰 Daily tools
-<img align="left" alt="codeSTACKr | Arch" width="22px" src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png"/>   <img align="left" alt="codeSTACKr | Zed" width="22px" src="<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/a202ff64-8c9b-4cc9-8e8a-6cc62bd65c40" />
+<img align="left" alt="codeSTACKr | Arch" width="22px" src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png"/>   <img align="left" alt="codeSTACKr | Zed" width="22px" alt="image" src="https://github.com/user-attachments/assets/a202ff64-8c9b-4cc9-8e8a-6cc62bd65c40" />

@@ -1,6 +1,4 @@
-<img width="1646" height="1646" alt="image" src="https://github.com/user-attachments/assets/fbb27957-c080-40f3-b4b8-19694acfecff" /># Yo, I'm Simone
-
-
+# Yo, I'm Simone
 
 ## 🍁 About Me
 •🇮🇹 I'm Italian

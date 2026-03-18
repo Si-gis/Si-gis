@@ -1,4 +1,4 @@
-# Yo, I'm Simone 👋
+# I'm Simone
 
 ## 🍁 About Me
 •🇮🇹 I'm Italian
